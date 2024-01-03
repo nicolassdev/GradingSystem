@@ -50,3 +50,6 @@ C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\Grad
 C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmTeacher.resources
 C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.Resources.resources
 C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.exe
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.xml
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.pdb
