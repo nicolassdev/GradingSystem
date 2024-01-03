@@ -1,0 +1,52 @@
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\bin\Debug\GradingSystem.xml
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\obj\x86\Debug\GradingSystem.frmMain.resources
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\obj\x86\Debug\GradingSystem.Resources.resources
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\obj\x86\Debug\GradingSystem.exe
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\obj\x86\Debug\GradingSystem.xml
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\obj\x86\Debug\GradingSystem.pdb
+C:\Users\carre\AppData\Local\Temporary Projects\GradingSystem\obj\x86\Debug\GradingSystem.frmStudent.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.exe
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.xml
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.pdb
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\bin\Debug\GradingSystem.xml
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmMain.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmStudent.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.Resources.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmGrades.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmSubject.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmTeacher.resources
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.exe
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.xml
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.pdb
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbprojResolveAssemblyReference.cache
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmGrades.resources
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmMain.resources
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmStudent.resources
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmSubject.resources
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmTeacher.resources
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.Resources.resources
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+E:\VISUAL BASIC PROGRAM\GradingSystem\GradingSystem\bin\Debug\GradingSystem.xml
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.exe
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.xml
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.pdb
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\bin\Debug\GradingSystem.xml
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmGrades.resources
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmMain.resources
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmStudent.resources
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmSubject.resources
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmTeacher.resources
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.Resources.resources
+C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache
