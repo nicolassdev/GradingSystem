@@ -309,7 +309,7 @@ Public Class frmGrades
     End Sub
      
     Private Sub btnSave_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSave.Click
-        'Dim queryInsert As String = "INSERT INTO grades(S_ID, SUB_ID, G_PRELIM, G_MIDTER, G_SEMI, G_FINAL, G_REMARKS) VALUES('" & cboID.Text & "','" & cboSubID.Text & "', '" & txtPrelim.Text & "','" & txtMidterm.Text & "','" & txtSemi.Text & "','" & txtFinal.Text & "','" & txtRemarks.Text & "');"
+        Dim queryInsert As String = "INSERT INTO grades(S_ID, SUB_ID, G_PRELIM, G_MIDTER, G_SEMI, G_FINAL, G_REMARKS) VALUES('" & cboID.Text & "','" & cboSubID.Text & "', '" & txtPrelim.Text & "','" & txtMidterm.Text & "','" & txtSemi.Text & "','" & txtFinal.Text & "','" & txtRemarks.Text & "');"
         ExecInsertButton(queryInsert)
         MessageBox.Show("Insert Successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information)
         loadgrid()
