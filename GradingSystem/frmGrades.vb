@@ -132,6 +132,7 @@ Public Class frmGrades
         fillSubID()
         btnCompute.Enabled = False
         btnSave.Enabled = False
+        btnClear.Enabled = False
         loadgrid()
 
 
@@ -145,6 +146,7 @@ Public Class frmGrades
         Else
             gbGrades.Enabled = True
             btnCompute.Enabled = True
+            btnClear.Enabled = True
         End If
     End Sub
     Private Sub cboID_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cboID.SelectedIndexChanged
@@ -317,6 +319,23 @@ Public Class frmGrades
         gbGrades.Enabled = False
         btnSave.Enabled = False
         btnCompute.Enabled = False
+        btnClear.Enabled = False
     End Sub
  
+    Private Sub btnClear_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnClear.Click
+        gbGrades.Enabled = False
+        txtPrelim.Text = ""
+        txtRemarks.Text = ""
+        txtMidterm.Text = ""
+        txtSemi.Text = ""
+        txtFinal.Text = ""
+        txtTotalAverage.Text = ""
+        textFname.Text = ""
+        txtSubName.Text = ""
+        btnSave.Enabled = False
+        btnClear.Enabled = False
+        btnCompute.Enabled = False
+        cboID.Text = ""
+        cboSubID.Text = ""
+    End Sub
 End Class

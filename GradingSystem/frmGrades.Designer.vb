@@ -48,6 +48,7 @@ Partial Class frmGrades
         Me.Label7 = New System.Windows.Forms.Label()
         Me.gbStudInfo = New System.Windows.Forms.GroupBox()
         Me.dgResult = New System.Windows.Forms.DataGridView()
+        Me.btnClear = New System.Windows.Forms.Button()
         Me.gbGrades.SuspendLayout()
         Me.gbSubject.SuspendLayout()
         Me.gbStudInfo.SuspendLayout()
@@ -352,6 +353,18 @@ Partial Class frmGrades
         Me.dgResult.Size = New System.Drawing.Size(924, 109)
         Me.dgResult.TabIndex = 16
         '
+        'btnClear
+        '
+        Me.btnClear.Font = New System.Drawing.Font("Consolas", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnClear.ForeColor = System.Drawing.Color.Blue
+        Me.btnClear.Location = New System.Drawing.Point(523, 358)
+        Me.btnClear.Margin = New System.Windows.Forms.Padding(2)
+        Me.btnClear.Name = "btnClear"
+        Me.btnClear.Size = New System.Drawing.Size(83, 41)
+        Me.btnClear.TabIndex = 17
+        Me.btnClear.Text = "Clear"
+        Me.btnClear.UseVisualStyleBackColor = True
+        '
         'frmGrades
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 19.0!)
@@ -359,6 +372,7 @@ Partial Class frmGrades
         Me.BackColor = System.Drawing.Color.SlateGray
         Me.ClientSize = New System.Drawing.Size(924, 530)
         Me.ControlBox = False
+        Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.dgResult)
         Me.Controls.Add(Me.btnCompute)
         Me.Controls.Add(Me.gbSubject)
@@ -405,4 +419,5 @@ Partial Class frmGrades
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents gbStudInfo As System.Windows.Forms.GroupBox
     Friend WithEvents dgResult As System.Windows.Forms.DataGridView
+    Friend WithEvents btnClear As System.Windows.Forms.Button
 End Class

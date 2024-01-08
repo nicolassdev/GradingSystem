@@ -53,3 +53,14 @@ C:\Users\USER\OneDrive\문서\Visual Studio 2010\Backup Files\GradingSystem\Grad
 D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.exe
 D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.xml
 D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.pdb
+D:\Github Files\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+D:\Github Files\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+D:\Github Files\GradingSystem\GradingSystem\bin\Debug\GradingSystem.xml
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbprojResolveAssemblyReference.cache
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmGrades.resources
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmMain.resources
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmStudent.resources
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmSubject.resources
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.frmTeacher.resources
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.Resources.resources
+D:\Github Files\GradingSystem\GradingSystem\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache

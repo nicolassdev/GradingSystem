@@ -82,8 +82,7 @@ Public Class frmSubject
         btnCancel.Enabled = True
         btnEdit.Enabled = False
         getSubID()
-
-
+        dgSubject.Enabled = False
         btnAdd.Enabled = False
         gbSubjects.Enabled = True
     End Sub
@@ -195,5 +194,6 @@ Public Class frmSubject
         btnEdit.Enabled = True
         btnSave.Enabled = False
         btnCancel.Enabled = False
+        dgSubject.Enabled = True
     End Sub
 End Class

@@ -41,12 +41,12 @@ Partial Class frmStudent
         Me.btnEdit = New System.Windows.Forms.Button()
         Me.gbButtons = New System.Windows.Forms.GroupBox()
         Me.btnCancel = New System.Windows.Forms.Button()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.dgStudent = New System.Windows.Forms.DataGridView()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.txtSearch = New System.Windows.Forms.TextBox()
         Me.gbStudent.SuspendLayout()
         Me.gbButtons.SuspendLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgStudent, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Label1
@@ -273,21 +273,21 @@ Partial Class frmStudent
         Me.btnCancel.Text = "CANCEL"
         Me.btnCancel.UseVisualStyleBackColor = True
         '
-        'DataGridView1
+        'dgStudent
         '
-        Me.DataGridView1.AllowUserToAddRows = False
-        Me.DataGridView1.AllowUserToDeleteRows = False
-        Me.DataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
-        Me.DataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.DataGridView1.Location = New System.Drawing.Point(0, 412)
-        Me.DataGridView1.Margin = New System.Windows.Forms.Padding(2)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.ReadOnly = True
-        Me.DataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.DataGridView1.Size = New System.Drawing.Size(924, 116)
-        Me.DataGridView1.TabIndex = 14
+        Me.dgStudent.AllowUserToAddRows = False
+        Me.dgStudent.AllowUserToDeleteRows = False
+        Me.dgStudent.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
+        Me.dgStudent.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells
+        Me.dgStudent.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgStudent.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.dgStudent.Location = New System.Drawing.Point(0, 412)
+        Me.dgStudent.Margin = New System.Windows.Forms.Padding(2)
+        Me.dgStudent.Name = "dgStudent"
+        Me.dgStudent.ReadOnly = True
+        Me.dgStudent.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.dgStudent.Size = New System.Drawing.Size(924, 116)
+        Me.dgStudent.TabIndex = 14
         '
         'Label8
         '
@@ -315,7 +315,7 @@ Partial Class frmStudent
         Me.ControlBox = False
         Me.Controls.Add(Me.txtSearch)
         Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.DataGridView1)
+        Me.Controls.Add(Me.dgStudent)
         Me.Controls.Add(Me.gbButtons)
         Me.Controls.Add(Me.gbStudent)
         Me.Controls.Add(Me.Label1)
@@ -326,7 +326,7 @@ Partial Class frmStudent
         Me.gbStudent.ResumeLayout(False)
         Me.gbStudent.PerformLayout()
         Me.gbButtons.ResumeLayout(False)
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgStudent, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -349,7 +349,7 @@ Partial Class frmStudent
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents btnEdit As System.Windows.Forms.Button
     Friend WithEvents gbButtons As System.Windows.Forms.GroupBox
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
+    Friend WithEvents dgStudent As System.Windows.Forms.DataGridView
     Friend WithEvents btnCancel As System.Windows.Forms.Button
     Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents txtSearch As System.Windows.Forms.TextBox
